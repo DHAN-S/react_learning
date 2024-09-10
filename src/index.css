@@ -1,0 +1,19 @@
+nav{
+  height: 100px;
+display: flex;
+  justify-content: left;
+  align-items: center;
+}
+li{
+    list-style-type: none;
+    display: inline;
+    padding-left:8px;
+    padding-right:8px;
+    padding-top:8px;
+    padding-bottom:8px;
+}
+li:hover{
+  background-color: #167;
+  color: aliceblue;
+  cursor: pointer;
+}
